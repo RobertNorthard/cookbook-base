@@ -1,6 +1,6 @@
 # Description
 
-Installs/Configures base
+Installs/Configures base system configuration
 
 # Requirements
 
