@@ -2,7 +2,7 @@ name 'base'
 maintainer 'Robert Northard'
 maintainer_email 'robertnorthard@googlemail.com'
 license 'All rights reserved'
-description 'Installs/Configures base'
+description 'Installs/Configures base system configuration'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
 version '0.1.0'
 
