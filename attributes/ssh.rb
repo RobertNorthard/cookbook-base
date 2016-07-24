@@ -16,6 +16,8 @@ default['openssh']['server']['password_authentication'] = 'no'
 
 default['openssh']['server']['permit_empty_passwords'] = 'no'
 
+default['openssh']['server']['permit_root_login'] = 'no'
+
 default['openssh']['server']['challenge_response_authentication'] = 'no'
 
 default['openssh']['server']['use_p_a_m'] = 'yes'
